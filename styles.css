@@ -1,0 +1,64 @@
+
+/* Header/Logo Title */
+#head {
+    border:2px gold solid;
+    padding: 30px;
+    text-align: center;
+    background: #1abc9c;
+    background-color: tomato;
+    color: white;
+    font-size: 17px;
+    height: 80px;
+    margin:30px
+  }
+  
+  
+  /* Page Content */
+  #content {
+    border:2px rgb(4, 0, 255) solid;
+    padding: 15px;
+    text-align: center;
+    background: #1abc9c;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+    margin: 40px;
+    height: 330px}
+  
+  #footer {
+    border: 3px yellow solid;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 97%;
+    background-color: rgb(255, 115, 0);
+    color: white;
+    text-align: center;
+    margin: 20px;
+  }
+
+  #par {
+    
+    padding: 15px;
+    text-align: center;
+    color: rgb(5, 5, 5);
+    font-size: 20px;
+    margin: 40px;
+    height: 330px}
+
+  #mango{
+    padding: auto;
+    text-align: center;
+    color: teal;
+    background-color: turquoise;
+    margin: 30px;
+    
+  }
+
+  #jam{
+    padding: 30px;
+    text-align: center;
+    color: antiquewhite;
+    font-size: medium;
+    margin: 25px;
+    background-color: brown;}
